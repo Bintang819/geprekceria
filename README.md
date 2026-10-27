@@ -43,7 +43,7 @@ Menyusun dan merapikan struktur pesan teks otomatis yang dikirimkan ke WhatsApp 
 
 Tautan Situs Web Aktif
 
-🌐 URL Website: https://debbyramadhani711-cell.github.io/geprekceria (Sesuaikan dengan URL GitHub Pages Anda)
+🌐 URL Website: https://github.com/Bintang819/geprekceria.git
 
 Langkah-Langkah Menggunakan Website:
 
